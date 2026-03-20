@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an interactive Excel dashboard built using the **Global Superstore dataset** from Kaggle. It analyzes retail business performance through data cleaning, lookup functions, pivot tables, charts, slicers, and KPI cards.
+This project is an interactive Excel dashboard built using the Global Superstore dataset from Kaggle. It analyzes retail business performance through data cleaning, lookup functions, pivot tables, charts, slicers, and KPI cards.
 
 ## Project Objectives
 
